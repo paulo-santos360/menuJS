@@ -24,10 +24,6 @@ img/gif.video.gif
 3. Explore o menu de produtos e clique nos botões de filtro.
 4. Veja como o JavaScript interage com a página.
 
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir _issues_ e _pull requests_ para melhorias, correções de bugs e novos recursos.
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
