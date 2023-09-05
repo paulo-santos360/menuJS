@@ -36,7 +36,7 @@ const menu = [
     title: "placa-mae",
     category: "placa-mae",//lunch
     price: 22.99,
-    img: "img/placa-1.jpg",
+    img: "img/Placa-1.jpg",
     desc: `A base do seu PC, repleta de desempenho e confiabilidade.`,
   },
   {
@@ -60,7 +60,7 @@ const menu = [
     title: "placa-mae",
     category: "placa-mae",
     price: 300.99,
-    img: "img/placa-2.jpg",
+    img: "img/Placa-2.jpg",
     desc: `A base do seu PC, repleta de desempenho e confiabilidade.`,
   },
   {
@@ -76,7 +76,7 @@ const menu = [
     title: "placa-mae",
     category: "placa-mae",
     price: 300.99,
-    img: "img/placa-3.jpg",
+    img: "img/Placa-3.jpg",
     desc: `A base do seu PC, repleta de desempenho e confiabilidade.`,
   },
   {
@@ -84,7 +84,7 @@ const menu = [
     title: "placa-mae",
     category: "placa-mae",
     price: 300.99,
-    img: "img/placa-4.jpg",
+    img: "img/Placa-4.jpg",
     desc: `A base do seu PC, repleta de desempenho e confiabilidade.`,
   },
   {
