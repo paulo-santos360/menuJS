@@ -1,5 +1,5 @@
-![GIF do Projeto](URL-do-seu-GIF)
-img/2023-09-04-21-37-17.gif
+![GIF do Projeto](https://www.canva.com/design/DAFtkcLCGHQ/cGr7mkBop9FdHeqyPLfXvw/view?utm_content=DAFtkcLCGHQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+
 
 Este projeto é um menu de produtos simples, criado usando HTML, CSS e JavaScript. Ele exibe uma lista de produtos, permite filtrar os produtos por categoria e apresenta informações detalhadas sobre cada item, incluindo imagem, título, preço e descrição.
 
