@@ -32,4 +32,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir _issues_ e _pull
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
 
-Feito com ❤️ por [Paulo Santos] (https://github.com/seu-username) 👨‍💻
+Feito com ❤️ por [Paulo Santos] (https://paulo-santos360.github.io/menuJS/) 👨‍💻
