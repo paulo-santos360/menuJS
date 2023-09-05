@@ -1,35 +1,21 @@
-<<<<<<< HEAD
-# Starter 🚀
-=======
 # Product Menu 🚀
->>>>>>> 7280dcce0a4f86ad301e3ffa429ee06fa9e218e6
 
 > Um projeto de exemplo para iniciar sua jornada de desenvolvimento web.
 
 ## 🌐 Visão Geral
 
-<<<<<<< HEAD
-O Starter é um projeto de exemplo que demonstra como criar uma página web simples. Ele inclui uma seção de menu de produtos e utiliza HTML, CSS e JavaScript para fornecer funcionalidade interativa.
-
-## 🛠️ Tecnologias Utilizadas
-
-- HTML5 e CSS3 para a estrutura e o estilo da página.
-- JavaScript para a lógica de interação do menu.
-- Font Awesome para ícones visualmente atraentes.
-=======
 O Product Menu é um projeto de exemplo que demonstra como criar uma página web simples. Ele inclui uma seção de menu de produtos e utiliza HTML, CSS e JavaScript para fornecer funcionalidade interativa.
 
 ## Pré-Visualização 📸
 
-![Product Menu Complete Preview](
-[https://github.com/paulo-santos360/PageJS/assets/102436341/a131d0ae-0edc-4f5d-b7a8-484f0f0be1dc]
+![Pagination Complete Preview](
+https://github.com/paulo-santos360/PageJS/assets/102436341/a131d0ae-0edc-4f5d-b7a8-484f0f0be1dc
 )
 
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5 e CSS3 para a estrutura e o estilo da página.
 - JavaScript para a lógica de interação do menu.
->>>>>>> 7280dcce0a4f86ad301e3ffa429ee06fa9e218e6
 
 ## 📖 Como Usar
 
@@ -46,8 +32,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir _issues_ e _pull
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
 
-<<<<<<< HEAD
-Feito com ❤️ por [Seu Nome] (https://github.com/seu-username) 👨‍💻
-=======
 Feito com ❤️ por [Paulo Santos] (https://github.com/seu-username) 👨‍💻
->>>>>>> 7280dcce0a4f86ad301e3ffa429ee06fa9e218e6
