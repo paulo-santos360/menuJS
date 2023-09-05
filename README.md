@@ -9,7 +9,7 @@ O Product Menu é um projeto de exemplo que demonstra como criar uma página web
 ## Pré-Visualização 📸
 
 ![Pagination Complete Preview](
-https://github.com/paulo-santos360/menuJS/assets/102436341/a131d0ae-0edc-4f5d-b7a8-484f0f0be1dc
+img/gif.video.gif
 )
 
 ## 🛠️ Tecnologias Utilizadas
