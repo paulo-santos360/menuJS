@@ -103,14 +103,6 @@ const menu = [
     img: "img/mouse-3.jpg",
     desc: `Navegue, clique e controle com facilidade. O nosso mouse oferece precisão excepcional`,
   },
-  {
-    id: 14,
-    title: "Teclado",
-    category: "Teclado",
-    price: 100.99,
-    img: "img/teclado (2).jpg",
-    desc: `Navegue, clique e controle com facilidade. O nosso mouse oferece precisão excepcional`,
-  },
 ];
 
 const sectionCenter = document.querySelector(".section-center");

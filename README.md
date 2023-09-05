@@ -1,4 +1,5 @@
 ![GIF do Projeto](URL-do-seu-GIF)
+img/2023-09-04-21-37-17.gif
 
 Este projeto é um menu de produtos simples, criado usando HTML, CSS e JavaScript. Ele exibe uma lista de produtos, permite filtrar os produtos por categoria e apresenta informações detalhadas sobre cada item, incluindo imagem, título, preço e descrição.
 
