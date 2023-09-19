@@ -1,6 +1,6 @@
 # Product Menu 🚀
 
-> Um projeto de exemplo para iniciar sua jornada de desenvolvimento web.
+ Um projeto de exemplo para iniciar sua jornada de desenvolvimento web.
 
 ## 🌐 Visão Geral
 
